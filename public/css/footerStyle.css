@@ -1,0 +1,34 @@
+.footMain{
+	padding: 25px;
+	background-color: gray;
+	display: flex;
+}
+
+.imgFoot{
+	width: 30%;
+}
+
+.imgFoot img{
+	margin-left: 40%;
+	margin-right: 40%;
+	width: 150px;
+	height: 100px;
+}
+
+.listFoot a{
+	text-decoration: none;
+	color: white;
+}
+
+.listFoot li{
+	list-style: none;
+}
+
+.listFoot{
+	width: 35%;
+	text-align: center;
+}
+
+.listFoot ul{
+	padding: 0px;
+}

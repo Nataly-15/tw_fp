@@ -1,0 +1,48 @@
+.headerNav{
+	display: flex;
+}
+
+.headerNav h1{
+	margin: auto;
+	font-size: 2.5rem;
+	color: #154360;
+	margin-top: 25px;
+}
+
+.headerNav img{
+	width: 50px;
+	height: 50px;
+	margin-top: 25px;
+}
+
+#m1{
+	margin-left: 5%;
+}
+
+#m2{
+	margin-right: 5%;
+}
+
+.navBar{
+	display: inline-flex;
+	padding: 0px 5% 0px 5%;
+	width: 90%;
+}
+
+.navBar a{
+	text-decoration: none;
+	color: black;
+}
+
+.navBar li{
+	width: 20%;
+	background-color: white;
+	list-style: none;
+	font-size: 25px;
+	text-align: center;
+	border: solid 2px black;
+}
+
+.navBar li:hover{
+	background-color: gray;
+}
